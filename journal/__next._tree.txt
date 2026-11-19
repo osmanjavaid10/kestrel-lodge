@@ -1,0 +1,7 @@
+:HL["/kestrel-lodge/_next/static/chunks/248lh2bsr61l6.css","style"]
+:HL["/kestrel-lodge/_next/static/media/660acf689794c992-s.p.2_mbdogr7ni8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kestrel-lodge/_next/static/media/edb99fec956915f8-s.p.32sris142tqlb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kestrel-lodge/media/landscape-silvaplana-winter-480.avif","image",{"type":"image/avif","fetchPriority":"high","imageSrcSet":"/kestrel-lodge/media/landscape-silvaplana-winter-480.avif 480w, /kestrel-lodge/media/landscape-silvaplana-winter-768.avif 768w, /kestrel-lodge/media/landscape-silvaplana-winter-1080.avif 1080w, /kestrel-lodge/media/landscape-silvaplana-winter-1440.avif 1440w, /kestrel-lodge/media/landscape-silvaplana-winter-1920.avif 1920w","imageSizes":"(min-width: 768px) 58vw, 100vw"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"journal","h":64,"c":"$Q2"}]]
+0:{"b":"xYTvNAbZHPvpezuULf9ir","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
